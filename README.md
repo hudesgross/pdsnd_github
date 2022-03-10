@@ -229,7 +229,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
-
+my project does what Udacity wanted it to do.
 ### Files used
 Include the files used
 
